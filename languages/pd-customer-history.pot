@@ -1,0 +1,324 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Customer History by PureDevs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 12:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: admin/partials/templates/customer-details.php:54
+msgid " Orders"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:153
+msgid "<span id=\"pd-customers-menu\">Customers & Users</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:145
+msgid "<span id=\"pd-dashboard-menu\">Dashboard</span>"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:169
+msgid "<span id=\"pd-order-history-menu\">Order History</span>"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:43
+#: admin/partials/templates/customer-details.php:79
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:24
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:432
+msgid "Back"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:12
+msgid "Chart View"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:59
+#: admin/partials/templates/dashboard/last-orders.php:14
+#: admin/partials/templates/dashboard/top-customers.php:20
+msgid "Click to Expend"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:161
+#: admin/partials/templates/dashboard/top-customers.php:27
+msgid "Customer"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:19
+msgid "Customer Details"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:135
+msgid "Customer History"
+msgstr ""
+
+#: admin/partials/templates/customers.php:9
+msgid "Customer List"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:38
+#: admin/partials/templates/dashboard/last-orders.php:23
+msgid "Customer Name"
+msgstr ""
+
+#: admin/partials/templates/top-nav.php:21
+msgid "Customers & Users"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:144
+#: admin/partials/templates/dashboard.php:12
+#: admin/partials/templates/top-nav.php:14
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:36
+#: admin/partials/templates/customer-details.php:70
+#: admin/partials/templates/dashboard/last-orders.php:21
+msgid "Date"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:404
+msgid "Edit this user"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:369
+msgid "Email"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:427
+msgid "Error"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:162
+msgid "Financial Summary"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:66
+msgid "Hide users with no orders :"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://puredevs.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/puredevs-customer-history-for-woocommerce"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:430
+msgid "I'm sorry, you are not allowed to see this page!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"It helps you understand how your customers behave on site. It allows you to "
+"see how many pagesthey have visited, the orders they have completed, the "
+"search term they have used, and many more."
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:73
+msgid "Items"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:39
+msgid "Items & Qty"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:5
+msgid "Latest Orders"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:345
+msgid "Name"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:71
+msgid "No"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:151
+msgid "No orders found!"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:67
+msgid "Order"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:168
+#: admin/partials/templates/order-history.php:9
+#: admin/partials/templates/top-nav.php:28
+msgid "Order History"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:37
+#: admin/partials/templates/dashboard/last-orders.php:22
+msgid "Order ID"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:38
+msgid "Orders"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:41
+#: admin/partials/templates/customer-details.php:287
+msgid "Orders average"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:41
+msgid "Payment Method"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:160
+msgid "PD Customer"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:134
+msgid "PD Customer History"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:152
+msgid "PD Customers"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:39
+#: admin/partials/templates/customer-details.php:195
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:226
+msgid "Pending Orders Amount"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:323
+msgid "Personal Information"
+msgstr ""
+
+#. Author of the plugin
+msgid "PureDevs"
+msgstr ""
+
+#. Name of the plugin
+msgid "PureDevs Customer History for WooCommerce"
+msgstr ""
+
+#: puredevs-customer-history-for-woocommerce.php:99
+msgid ""
+"PureDevs Customer History for WooCommerce is enabled but not effective. In "
+"order to work it requires WooCommerce."
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:40
+#: admin/partials/templates/customer-details.php:241
+msgid "Refunded Orders"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:272
+msgid "Refunded Orders Amount"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:54
+msgid "Results per page :"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:37
+msgid "Role"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:83
+msgid "Save"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:24
+msgid "Security check failed!"
+msgstr ""
+
+#: admin/class-pd-customer-history-admin.php:176
+#: admin/class-pd-customer-history-admin.php:177
+#: admin/partials/templates/plugin-settings.php:15
+#: admin/partials/templates/top-nav.php:37
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:37
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:42
+#: admin/partials/templates/dashboard/last-orders.php:25
+msgid "Status"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:9
+msgid "Table View"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:5
+msgid "Top Customers"
+msgstr ""
+
+#: includes/class-pd-customer-order-history.php:40
+#: admin/partials/templates/customer-details.php:76
+msgid "Total"
+msgstr ""
+
+#: admin/partials/templates/dashboard/top-customers.php:28
+msgid "Total Amount"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:169
+#: admin/partials/templates/dashboard/top-customers.php:29
+msgid "Total Orders"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:42
+msgid "Total Spending"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:308
+msgid "Total Spent"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:36
+msgid "User"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:333
+msgid "User ID"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:357
+msgid "Username"
+msgstr ""
+
+#: includes/class-pd-customer-history-customers.php:140
+#: admin/partials/templates/customer-details.php:122
+msgid "View"
+msgstr ""
+
+#: admin/partials/templates/dashboard/last-orders.php:10
+#: admin/partials/templates/dashboard/top-customers.php:16
+msgid "View All"
+msgstr ""
+
+#: admin/partials/templates/customer-details.php:383
+msgid "Website"
+msgstr ""
+
+#: admin/partials/templates/plugin-settings.php:76
+msgid "Yes"
+msgstr ""
